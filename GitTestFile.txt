@@ -1,0 +1,10 @@
+This is a test file being created to test the git functionalities. Following are the planned activities
+1. Git Branch
+2. Git Merge
+3. Git Diff
+4. Git Re-Base
+5. Git Stash
+6. Git Checkout
+7. Git Status
+8. Git Commit
+and more advanced features.
