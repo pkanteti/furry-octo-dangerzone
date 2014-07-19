@@ -9,10 +9,13 @@ This is a test file being created to test the git functionalities. Following are
 8. Git Commit
 and more advanced features.
 
+
 This line is being udpated in the master
 
 //Prudhvi: Making changes as part of issue 53
 Issue53 code goes here.
 Updating the file during a hotfix
 ** File changes made after the merge of code in master with the iss53
+
+This file is being udpted in the testing branch.
 
