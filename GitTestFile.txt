@@ -1,8 +1,16 @@
+One more change to the file 
+Changes to the file
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ===========
 Update from the merge conflict branch of prudhvi
 ==========
+=======
+===
+Updates from original Branch
+===
+>>>>>>> originalbranch
 =======
 ===
 Updates from original Branch
