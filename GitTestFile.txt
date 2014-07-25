@@ -1,3 +1,6 @@
+New file Updates 1 from merge conflict repo... by Prudhvi @ 10:50 AM
+
+==========================================
 This is a test file being created to test the git functionalities. Following are the planned activities
 1. Git Branch
 2. Git Merge
